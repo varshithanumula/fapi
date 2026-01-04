@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+venv/
+myenv/
+env/
+.env
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Logs
+*.log
+
+# Static build
+frontend/build/
